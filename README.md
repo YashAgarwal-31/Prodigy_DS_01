@@ -1,11 +1,103 @@
-# Prodigy InfoTech Internship: Data Analysis Insights
+<h1 align="center">Prodigy InfoTech Data Science Internship</h1>
 
-Welcome to the Prodigy InfoTech Internship repository! This repository contains my work for Task 1 of the internship, which focuses on data cleaning, exploratory analysis, and discovering meaningful insights from data.
+<p align="center">
+  <strong>Task 1: Population Distribution Visualization</strong>
+</p>
 
-## Task Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/Organization-Prodigy%20InfoTech-0A66C2?style=for-the-badge" alt="Prodigy InfoTech">
+  <img src="https://img.shields.io/badge/Role-Data%20Science%20Intern-2E8B57?style=for-the-badge" alt="Data Science Intern">
+  <img src="https://img.shields.io/badge/Task-1%20of%204-6F42C1?style=for-the-badge" alt="Task 1 of 4">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Completed">
+</p>
 
-The objective of this task was to create a bar chart or histogram to visualize the distribution of a categorical or continuous variable—such as age or gender—within a given population dataset.
+## Internship Overview
 
-## Skills & Insights Gained
+This repository is one component of my **Data Science Internship at Prodigy InfoTech**. The internship consisted of four connected assignments covering data visualization, exploratory data analysis, machine learning, and sentiment analysis.
 
-Through this task, I improved my data visualization skills by learning how to effectively represent categorical and continuous variables using bar charts and histograms. This allowed me to better interpret and communicate patterns in population demographics and other datasets.
+## Internship Task Navigator
+
+| Internship deliverable | Repository |
+|---|---|
+| **Task 1 - Population Distribution Visualization** | [Open Repository](https://github.com/YashAgarwal-31/Prodigy_DS_01) |
+| Task 2 - Titanic Data Cleaning and EDA | [Open Repository](https://github.com/YashAgarwal-31/Prodigy_DS_02) |
+| Task 3 - Bank Marketing Decision Tree Classifier | [Open Repository](https://github.com/YashAgarwal-31/Prodigy_DS_03) |
+| Task 4 - Social Media Sentiment Analysis | [Open Repository](https://github.com/YashAgarwal-31/Prodigy_DS_04) |
+
+> All four repositories represent deliverables completed under the same Prodigy InfoTech Data Science Internship.
+
+## Task 1: Population Distribution Visualization
+
+Created bar charts and histograms to study the distribution of categorical and continuous variables in a population dataset.
+
+### Objective
+
+Transform raw population data into clear visual summaries that make demographic patterns easier to understand and communicate.
+
+### Workflow
+
+1. Loaded and inspected the population dataset.
+2. Cleaned and prepared the required variables.
+3. Selected suitable bar-chart and histogram representations.
+4. Visualized distribution patterns and interpreted the results.
+
+## Repository Contents
+
+| File | Purpose |
+|---|---|
+| [`PRODIGY_DS_01.ipynb`](PRODIGY_DS_01.ipynb) | Complete analysis and visualizations |
+| [`population.csv`](population.csv) | Population dataset used in the notebook |
+
+## Technology Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+  
+</p>
+
+## Dataset
+
+- **Source used in this repository:** Population dataset
+- The dataset file is included for reproducibility and direct notebook execution.
+
+## Skills Demonstrated
+
+- Data visualization
+- Exploratory data analysis
+- Distribution analysis
+- Insight communication
+
+## Running the Notebook
+
+1. Clone or download this repository.
+2. Keep the dataset file in the same directory as the notebook.
+3. Open the notebook in Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
+4. Install any missing Python dependencies.
+5. Run the cells in sequence to reproduce the analysis.
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+## Internship Certificate
+
+The completion certificate will be added after the verified certificate file is uploaded.
+
+## Author
+
+**Yash Agarwal**
+
+- [GitHub](https://github.com/YashAgarwal-31)
+- [LinkedIn](https://www.linkedin.com/in/yash-agarwal9124)
+- [Email](mailto:yashagarwal9124@gmail.com)
+
+---
+
+<p align="center">
+  <em>Part of the Prodigy InfoTech Data Science Internship portfolio.</em>
+</p>
